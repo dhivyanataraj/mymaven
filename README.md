@@ -1,2 +1,0 @@
-# mymaven # mymaven # mymaven
-# mymaven
